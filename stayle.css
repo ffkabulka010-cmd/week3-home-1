@@ -54,3 +54,75 @@
     font-weight: 500;
     cursor: pointer;
 }
+
+.salom8 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 50px 8% 100px;
+}
+
+.salom9 {
+    max-width: 480px;
+}
+
+.salom10 {
+    margin: 0 0 22px;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #151a4a;
+}
+
+.salom11 {
+    margin: 0 0 28px;
+    max-width: 380px;
+    font-size: 13px;
+    line-height: 1.8;
+    color: #7b7f9e;
+}
+
+.salom12 {
+    padding: 14px 30px;
+    border: 0;
+    border-radius: 3px;
+    background: #151a4a;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.salom13 {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    flex: none;
+}
+
+.salom14 {
+    width: 166px;
+    height: 544px;
+    border-radius: 8px;
+    background: url("./ustun-1\ \(1\).png") center / cover no-repeat;
+    box-shadow: 0 24px 30px rgba(120, 150, 200, 0.25);
+}
+
+.salom15 {
+    width: 166px;
+    height: 544px;
+    border-radius: 8px;
+    background: url("./ustun-2\ \(1\).png") center / cover no-repeat;
+    box-shadow: 0 24px 30px rgba(120, 150, 200, 0.25);
+    margin-top: 74px;
+}
+
+.salom16 {
+    width: 166px;
+    height: 544px;
+    border-radius: 8px;
+    background: url("./ustun-3\ \(1\).png") center / cover no-repeat;
+    box-shadow: 0 24px 30px rgba(120, 150, 200, 0.25);
+}
+
