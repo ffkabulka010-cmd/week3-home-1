@@ -539,3 +539,45 @@
     font-size: 12px;
 }
 
+.salom76 {
+    padding: 40px 8% 80px;
+    text-align: center;
+}
+
+.salom77 {
+    margin: 0 0 40px;
+    font-size: 28px;
+    font-weight: 600;
+    color: #151a4a;
+}
+
+.salom78 {
+    width: 108px;
+    height: 108px;
+    margin: 0 auto 30px;
+    border-radius: 50%;
+    background: url("mijoz.png") center / cover no-repeat;
+}
+
+.salom79 {
+    margin: 0 auto 26px;
+    max-width: 680px;
+    font-size: 13px;
+    line-height: 1.8;
+    color: #7b7f9e;
+}
+
+.salom80 {
+    margin: 0 0 18px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #151a4a;
+}
+
+.salom81 {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+ 
+ 
