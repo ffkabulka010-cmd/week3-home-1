@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+.salom1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 8%;
+}
+
+.salom2 {
+    margin: 0;
+    font-size: 22px;
+    font-weight: 600;
+    color: #151a4a;
+}
+
+.salom3 {
+    display: flex;
+    gap: 40px;
+}
+
+.salom4 {
+    margin: 0;
+    font-size: 12px;
+    font-weight: 500;
+    color: #151a4a;
+    cursor: pointer;
+}
+
+.salom5 {
+    margin: 0;
+    font-size: 12px;
+    font-weight: 500;
+    color: #151a4a;
+    cursor: pointer;
+}
+
+.salom6 {
+    margin: 0;
+    font-size: 12px;
+    font-weight: 500;
+    color: #151a4a;
+    cursor: pointer;
+}
+
+.salom7 {
+    padding: 12px 22px;
+    border: 0;
+    border-radius: 3px;
+    background: #151a4a;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+}
