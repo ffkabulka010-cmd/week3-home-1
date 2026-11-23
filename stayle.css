@@ -126,3 +126,87 @@
     box-shadow: 0 24px 30px rgba(120, 150, 200, 0.25);
 }
 
+.salom17 {
+    display: grid;
+    grid-template-columns: 355px 1fr;
+    gap: 115px;
+    align-items: center;
+    padding: 60px 8%;
+}
+
+.salom18 {
+    width: 355px;
+    height: 528px;
+    background: url("./kulba\ \(1\).png") center / cover no-repeat;
+}
+
+.salom19 {
+    max-width: 480px;
+}
+
+.salom20 {
+    margin: 0 0 22px;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1.35;
+    color: #151a4a;
+}
+
+.salom21 {
+    margin: 0 0 16px;
+    font-size: 13px;
+    line-height: 1.8;
+    color: #7b7f9e;
+}
+
+.salom22 {
+    margin: 0 0 16px;
+    font-size: 13px;
+    line-height: 1.8;
+    color: #7b7f9e;
+}
+
+.salom23 {
+    padding: 14px 30px;
+    border: 0;
+    border-radius: 3px;
+    background: #151a4a;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.salom24 {
+    display: grid;
+    grid-template-columns: 1fr 355px;
+    gap: 115px;
+    align-items: center;
+    padding: 60px 8%;
+}
+
+.salom25 {
+    max-width: 480px;
+}
+
+.salom26 {
+    margin: 0 0 22px;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1.35;
+    color: #151a4a;
+}
+
+.salom27 {
+    margin: 0 0 16px;
+    font-size: 13px;
+    line-height: 1.8;
+    color: #7b7f9e;
+}
+
+.salom28 {
+    width: 355px;
+    height: 528px;
+    background: url("./marosim\ \(1\).png") center / cover no-repeat;
+}
