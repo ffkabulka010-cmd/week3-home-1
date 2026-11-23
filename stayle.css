@@ -580,4 +580,128 @@
     gap: 12px;
 }
  
+.salom86 {
+    display: grid;
+    grid-template-columns: 2.4fr 1fr 1fr 1fr;
+    gap: 40px;
+    padding: 70px 8% 60px;
+    background: #0b265a;
+    color: #fff;
+}
+
+.salom87 {
+    min-width: 0;
+}
+
+.salom88 {
+    margin: 0 0 14px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.salom89 {
+    margin: 0 0 22px;
+    max-width: 160px;
+    font-size: 11px;
+    line-height: 1.8;
+}
+
+.salom90 {
+    display: flex;
+    gap: 14px;
+}
+
  
+
+.salom94 {
+    min-width: 0;
+}
+
+.salom95 {
+    margin: 0 0 22px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.salom96 {
+    margin: 0 0 16px;
+    font-size: 11px;
+    color: #e4e8f2;
+    cursor: pointer;
+}
+
+.salom97 {
+    margin: 0 0 16px;
+    font-size: 11px;
+    color: #e4e8f2;
+    cursor: pointer;
+}
+
+.salom98 {
+    margin: 0 0 16px;
+    font-size: 11px;
+    color: #e4e8f2;
+    cursor: pointer;
+}
+
+.salom99 {
+    margin: 0 0 16px;
+    font-size: 11px;
+    color: #e4e8f2;
+    cursor: pointer;
+}
+
+.salom100 {
+    min-width: 0;
+}
+
+.salom101 {
+    margin: 0 0 22px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.salom102 {
+    margin: 0 0 16px;
+    font-size: 11px;
+    color: #e4e8f2;
+    cursor: pointer;
+}
+
+.salom103 {
+    margin: 0 0 16px;
+    font-size: 11px;
+    color: #e4e8f2;
+    cursor: pointer;
+}
+
+.salom104 {
+    min-width: 0;
+}
+
+.salom105 {
+    margin: 0 0 22px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.salom106 {
+    margin: 0 0 16px;
+    font-size: 11px;
+    color: #e4e8f2;
+    cursor: pointer;
+}
+
+.salom107 {
+    margin: 0 0 16px;
+    font-size: 11px;
+    color: #e4e8f2;
+    cursor: pointer;
+}
+
+.salom108 {
+    margin: 0 0 16px;
+    font-size: 11px;
+    color: #e4e8f2;
+    cursor: pointer;
+}
