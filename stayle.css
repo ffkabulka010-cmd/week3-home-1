@@ -376,3 +376,208 @@
     cursor: pointer;
 }
 
+.salom54 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 120px;
+    align-items: center;
+    padding: 100px 8%;
+}
+
+.salom55 {
+    max-width: 420px;
+}
+
+.salom56 {
+    margin: 0 0 12px;
+    font-size: 11px;
+    color: #151a4a;
+}
+
+.salom57 {
+    margin: 0 0 18px;
+    font-size: 30px;
+    font-weight: 600;
+    color: #151a4a;
+}
+
+.salom58 {
+    margin: 0 0 26px;
+    font-size: 13px;
+    line-height: 1.8;
+    color: #7b7f9e;
+}
+
+.salom59 {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.salom60 {
+    padding: 14px 30px;
+    border: 0;
+    border-radius: 3px;
+    background: #151a4a;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.salom61 {
+    margin: 0;
+    font-size: 11px;
+    color: #151a4a;
+    cursor: pointer;
+}
+
+.salom62 {
+    min-width: 0;
+}
+
+.salom63 {
+    padding: 26px 28px;
+    margin-bottom: 18px;
+    border-radius: 6px;
+    background: #fff;
+    box-shadow: 0 6px 24px rgba(21, 26, 74, 0.1);
+}
+
+.salom64 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.salom65 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    color: #151a4a;
+}
+
+.salom66 {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: #ffe3d1;
+    color: #ff620a;
+    text-align: center;
+    line-height: 26px;
+    font-size: 12px;
+}
+
+.salom67 {
+    padding: 26px 28px;
+    margin-bottom: 18px;
+    border-radius: 6px;
+    background: #fff;
+    box-shadow: 0 6px 24px rgba(21, 26, 74, 0.1);
+}
+
+.salom68 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.salom69 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    color: #151a4a;
+}
+
+.salom70 {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: #ff620a;
+    color: #fff;
+    text-align: center;
+    line-height: 26px;
+    font-size: 12px;
+}
+
+.salom71 {
+    margin: 18px 0 0;
+    font-size: 13px;
+    line-height: 1.8;
+    color: #7b7f9e;
+}
+
+.salom72 {
+    padding: 26px 28px;
+    margin-bottom: 18px;
+    border-radius: 6px;
+    background: #fff;
+    box-shadow: 0 6px 24px rgba(21, 26, 74, 0.1);
+}
+
+.salom73 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.salom74 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    color: #151a4a;
+}
+
+.salom75 {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: #ffe3d1;
+    color: #ff620a;
+    text-align: center;
+    line-height: 26px;
+    font-size: 12px;
+}
+
+.salom76 {
+    padding: 40px 8% 80px;
+    text-align: center;
+}
+
+.salom77 {
+    margin: 0 0 40px;
+    font-size: 28px;
+    font-weight: 600;
+    color: #151a4a;
+}
+
+.salom78 {
+    width: 108px;
+    height: 108px;
+    margin: 0 auto 30px;
+    border-radius: 50%;
+    background: url("mijoz.png") center / cover no-repeat;
+}
+
+.salom79 {
+    margin: 0 auto 26px;
+    max-width: 680px;
+    font-size: 13px;
+    line-height: 1.8;
+    color: #7b7f9e;
+}
+
+.salom80 {
+    margin: 0 0 18px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #151a4a;
+}
+
+.salom81 {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+ 
+ 
